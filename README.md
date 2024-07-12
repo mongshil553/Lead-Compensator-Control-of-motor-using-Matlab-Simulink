@@ -36,4 +36,12 @@ For K=5000, the Crossover Frequency is 1.04e+03 where the Phase is -136°. There
 
 <img src = "https://github.com/user-attachments/assets/4cfe7ee0-66be-469a-b99f-594b713b917a" width="50%" height="50%" title="Lead Compensator Transfer Function"> <br>
 
+<hr>
+<h2>System Result</h2>
+With the feedback control system, the result are the following; <br>
+<img src = "https://github.com/user-attachments/assets/c665eeb1-b807-4b85-9146-a366ddb2d0e4" width="70%" height="70%" title="Matlab Result"> <br><br>
+
+Simulink results are the following; <br>
+<img src = "https://github.com/user-attachments/assets/1352b859-c736-48a6-ba60-de68f7d185a1" width="65%" height="65%" title="Simulink Design"> &nbsp;
+<img src = "https://github.com/user-attachments/assets/eac3b78f-7055-4505-af30-c3ac5c0eff11" width="30%" height="30%" title="Simulink Result"> <br>
 
