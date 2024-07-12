@@ -55,7 +55,7 @@ Simulink results are the following; <br>
 <br>
 Sine Disturbance: <br>
 <img src = "https://github.com/user-attachments/assets/a6fbb9c7-d8c8-40c9-b192-b4200c3f81d7" width="72%" height="72%" title="Sine Disturbance">
-<img src = "https://github.com/user-attachments/assets/320bfd0c-2f62-4bc5-b9fa-8bc692bdb54b" width="26%" height="26%" title="Sine Disturbance">
+<img src = "https://github.com/user-attachments/assets/320bfd0c-2f62-4bc5-b9fa-8bc692bdb54b" width="26%" height="26%" title="Sine Disturbance enlarged">
 <br><br>
 
 Step Disturbance: <br>
@@ -64,7 +64,7 @@ Step Disturbance: <br>
 
 Ramp Disturbance: <br>
 <img src = "https://github.com/user-attachments/assets/87dc194a-10ab-46ed-90c7-5ff758da3ce7" width="72%" height="72%" title="Ramp Disturbance">
-<img src = "https://github.com/user-attachments/assets/7e822174-d957-4702-b446-3ebc22fdd5e0" width="26%" height="26%" title="Ramp Disturbance">
+<img src = "https://github.com/user-attachments/assets/7e822174-d957-4702-b446-3ebc22fdd5e0" width="26%" height="26%" title="Ramp Disturbance enlarged">
 <br><br>
 
 Parabola Disturbance: <br>
