@@ -20,4 +20,7 @@ After Calculation, the transfer function of the plant is equal to the equation a
 <br> Steady State Error exists. Also, ziegler nichols method cannot be applied to this plant.<br>
 
 <h2>Bode Plot</h2>
-Using Matlab, we get the following Root Locus; <br><br>
+Using Matlab, we get the following Bode Plot; <br><br>
+<img src = "https://github.com/user-attachments/assets/6ea93eb8-dab5-4280-a800-85149ff19b3b" width="70%" height="70%" title="Matlab Bode Plot">
+
+<h2>Nyquist Plot</h2>
