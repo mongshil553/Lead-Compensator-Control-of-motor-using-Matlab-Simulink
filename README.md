@@ -45,3 +45,44 @@ Simulink results are the following; <br>
 <img src = "https://github.com/user-attachments/assets/1352b859-c736-48a6-ba60-de68f7d185a1" width="65%" height="65%" title="Simulink Design"> &nbsp;
 <img src = "https://github.com/user-attachments/assets/eac3b78f-7055-4505-af30-c3ac5c0eff11" width="30%" height="30%" title="Simulink Result"> <br>
 
+<hr>
+<h2>Disturbance Rejection</h2>
+<!--<div align="center">-->
+  System Model with Disturbance: <br>
+<img src = "https://github.com/user-attachments/assets/b80d31a1-df21-413d-bfdd-3e087b0b1827" width="70%" height="70%" title="Design">
+<!--</div>-->
+
+<br>
+Sine Disturbance: <br>
+<img src = "https://github.com/user-attachments/assets/a6fbb9c7-d8c8-40c9-b192-b4200c3f81d7" width="72%" height="72%" title="Sine Disturbance">
+<img src = "https://github.com/user-attachments/assets/320bfd0c-2f62-4bc5-b9fa-8bc692bdb54b" width="26%" height="26%" title="Sine Disturbance">
+<br><br>
+
+Step Disturbance: <br>
+<img src = "https://github.com/user-attachments/assets/f344ce0a-4d85-4e6b-9fa1-b106fb868065" width="100%" height="100%" title="Step Disturbance">
+<br><br>
+
+Ramp Disturbance: <br>
+<img src = "https://github.com/user-attachments/assets/87dc194a-10ab-46ed-90c7-5ff758da3ce7" width="72%" height="72%" title="Ramp Disturbance">
+<img src = "https://github.com/user-attachments/assets/7e822174-d957-4702-b446-3ebc22fdd5e0" width="26%" height="26%" title="Ramp Disturbance">
+<br><br>
+
+Parabola Disturbance: <br>
+<img src = "https://github.com/user-attachments/assets/ed538475-bfb3-4ca9-9f8f-77ea601ef963" width="100%" height="100%" title="Parabola Disturbance">
+<br><br>
+
+<hr>
+<h2>User Defined Reference Tracking</h2>
+The following is the signal defined which will be a reference. <br>
+<img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab-Simulink/assets/129606995/83e7b40c-1ece-4597-8e8f-2cec3ce5a8ea" width="55%" height="55%" title="User Defined Reference">
+
+<br><br>
+
+The following is the system model. <br>
+<img src = "https://github.com/user-attachments/assets/52b97e18-17ef-4fac-b8b4-0bb12217deb0" width="100%" height="100%" title="Model">
+
+<br><br>
+Result(Left) and Error(Right): <br>
+<img src = "https://github.com/user-attachments/assets/081a5828-182e-45e0-afdf-41dee94067c3" width="100%" height="100%" title="Simulation Result">
+
+The error is very minimal.
