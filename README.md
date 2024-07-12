@@ -1,7 +1,7 @@
 # Lead-Compensator-Control-of-motor-using-Matlab-Simulink
 
 Using Matlab, design a Lead Compensator control system for motor. <br>
-Target Performance Specification: 1. Overshoot ≤ 10%, 2. Rise Time ≤ 3s, 3.Settling Time ≤ 15s, 4. Steady State Error ≤ 1%
+Target Performance Specification: 1. Phase Margin ≥ 30, 2. Steady State Error ≤ 1%
 
 <hr>
 <h2>Ciruit and Motor Free Body Diagrams</h3>
@@ -18,3 +18,6 @@ After Calculation, the transfer function of the plant is equal to the equation a
 <img src = "https://github.com/mongshil553/PI-Control-of-motor-using-Matlab/assets/129606995/bb9578fd-cb64-40b2-8915-f3c754cbd17a" width="42%" height="42%" title="Simulink Step Response">
 <!--</div>-->
 <br> Steady State Error exists. Also, ziegler nichols method cannot be applied to this plant.<br>
+
+<h2>Bode Plot</h2>
+Using Matlab, we get the following Root Locus; <br><br>
