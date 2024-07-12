@@ -19,8 +19,19 @@ After Calculation, the transfer function of the plant is equal to the equation a
 <!--</div>-->
 <br> Steady State Error exists. Also, ziegler nichols method cannot be applied to this plant.<br>
 
+<hr>
 <h2>Bode Plot</h2>
 Using Matlab, we get the following Bode Plot; <br><br>
 <img src = "https://github.com/user-attachments/assets/6ea93eb8-dab5-4280-a800-85149ff19b3b" width="70%" height="70%" title="Matlab Bode Plot">
 
+<hr>
 <h2>Nyquist Plot</h2>
+Using Matlab, we get the following Nyquist Plot; <br><br>
+<img src = "https://github.com/user-attachments/assets/376281c7-1228-410e-af77-89ac9cc7ba3b" width="70%" height="70%" title="Matlab Nyquist Plot"> <br>
+For all Ks, the system is stable.
+
+<hr>
+
+
+
+
