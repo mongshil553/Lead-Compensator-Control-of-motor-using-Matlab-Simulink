@@ -31,7 +31,9 @@ Using Matlab, we get the following Nyquist Plot; <br><br>
 For all Ks, the system is stable.
 
 <hr>
+<h2>Designing Lead Compensator</h2>
+For K=5000, the Crossover Frequency is 1.04e+03 where the Phase is -136°. Therefore the PM is 44°. For Overshoot to be below 10%, PM should be equal or higher than 60°. With an extra margin of 10°, the lead compensator should compensate 26° Phase. The following is the lead compensator transfer function; <br>
 
-
+<img src = "https://github.com/user-attachments/assets/4cfe7ee0-66be-469a-b99f-594b713b917a" width="50%" height="50%" title="Lead Compensator Transfer Function"> <br>
 
 
